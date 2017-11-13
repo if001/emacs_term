@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: random
+# key: random
+# --
+import random as rand

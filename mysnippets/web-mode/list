@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: list
+# key: ul
+# --
+<ul>
+<li></li>
+<li></li>
+</ul>

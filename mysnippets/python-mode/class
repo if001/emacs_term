@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: class
+# key: class
+# --
+class name():
+   def __init__(self): pass
